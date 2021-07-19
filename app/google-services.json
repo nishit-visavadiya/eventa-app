@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "495336815769",
+    "firebase_url": "https://eventaapp-ae56c.firebaseio.com",
+    "project_id": "eventaapp-ae56c",
+    "storage_bucket": "eventaapp-ae56c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495336815769:android:afcf6f3edf9b1c8786cc08",
+        "android_client_info": {
+          "package_name": "com.parthpaija.eventaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495336815769-sa568gvege17jso8k9m7c2l8tgqrgjsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0N5m2c5fnEnTQ4_5Q-B68NTx1_StUnjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495336815769-sa568gvege17jso8k9m7c2l8tgqrgjsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
